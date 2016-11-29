@@ -41,7 +41,6 @@ module PublicSuffix
     include Enumerable
 
     DEFAULT_LIST_PATH = File.join(File.dirname(__FILE__), "..", "..", "data", "list.txt")
-
     # Gets the default rule list.
     #
     # Initializes a new {PublicSuffix::List} parsing the content

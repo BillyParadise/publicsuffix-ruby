@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Simone Carletti"]
   s.email       = ["weppos@weppos.net"]
   s.homepage    = "https://simonecarletti.com/code/publicsuffix-ruby"
-  s.summary     = "Domain name parser based on the Public Suffix List."
+  s.summary     = "Modified/Extended Domain name parser based on the Public Suffix List."
   s.description = "PublicSuffix can parse and decompose a domain name into top level domain, domain and subdomains."
   s.licenses    = ["MIT"]
 
